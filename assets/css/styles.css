@@ -1,0 +1,19 @@
+
+html{
+    --img-wrapper: 600px;
+    --bth-wrapper: 50px
+}
+*{
+    box-sizing: border-box;
+}
+body{
+    font-size: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+.timer{
+    margin: 20px 0;
+}
